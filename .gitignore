@@ -1,2 +1,5 @@
 # Ignore the exports
 _exports/
+
+# Nasty OSX 
+.DS_Store
